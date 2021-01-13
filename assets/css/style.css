@@ -12,4 +12,6 @@ html , body{
 #page2{
     font-family: 'Bitter', serif;
 }
-
+.sizeTitle{
+    font-size: 4rem;
+}

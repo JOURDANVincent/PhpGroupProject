@@ -18,7 +18,7 @@
             </a>
             <button class="navbar-toggler bg-danger" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <img src="assets\img\bonhomme.svg" alt="ouvrier" class="img-fluid" width="50">
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
