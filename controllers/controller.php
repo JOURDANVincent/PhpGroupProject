@@ -9,13 +9,12 @@
 
         $id = intval($_GET['id']);
 
-        $actualPage =  'page'.($id-1) . $simpleXml->page[$id-1]->content;
+        $contentPage = $simpleXml->page[$id-1]->content;
         $titlePage  = $simpleXml->page[$id-1]->title;
-        echo $titlePage;
 
     } else {
 
-        $actualPage = 'page de garde'.$simpleXml->page[$id-1]->content;
+        $contentPage = $simpleXml->page[$id-1]->content;
         $titlePage  = $simpleXml->page[$id-1]->title;
     }
 

@@ -1,6 +1,5 @@
 <?php
 
-    
     // lien avec controller.php
     include('controllers/controller.php');
 
@@ -12,7 +11,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12" id="page'.$id.'">
-                        '.$actualPage.'
+                        '.$contentPage.'
                     </div>
                 </div>
             </div>
@@ -20,6 +19,5 @@
 
     // récupère le header
     include('views/template/footer.php');
-
 
 ?>

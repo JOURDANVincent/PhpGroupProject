@@ -24,10 +24,10 @@
 
     <header>
         <div>
-            <a href="index.php?id=1">Page 0</a>
-            <a href="index.php?id=2">Page 1</a>
-            <a href="index.php?id=3">Page 2</a>
-            <a href="index.php?id=4">Page 3</a>
+            <a href="1.html">Page 0</a>
+            <a href="2.html">Page 1</a>
+            <a href="3.html">Page 2</a>
+            <a href="4.html">Page 3</a>
         </div>
     </header>
 
