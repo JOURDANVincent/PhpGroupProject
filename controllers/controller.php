@@ -9,12 +9,13 @@
         $id = $_GET['id'];
 
         $actualPage =  'page'.($id-1) . $simpleXml->page[$id-1]->content;
+
+        
     } else {
 
         $actualPage = 'page de garde'.$simpleXml->page[1]->content;
 
     }
 
-    //$titlePage = 
 
 ?>
