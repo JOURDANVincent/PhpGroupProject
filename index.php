@@ -1,6 +1,5 @@
 <?php
 
-
     // récupère le header
     include('views/template/header.php');
 
