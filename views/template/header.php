@@ -22,10 +22,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active text-dark sizing-change ml-3" href="index.php?id=1">Accueil <span class="sr-only">(current)</span></a>
-                    <a class="nav-link text-dark sizing-change ml-3" href="index.php?id=2">Qui sommes nous?</a>
-                    <a class="nav-link text-dark sizing-change ml-3" href="index.php?id=3">Nos clients témoignent</a>
-                    <a class="nav-link text-dark sizing-change ml-3" href="index.php?id=4">Contact</a>
+                    <a class="nav-link active text-dark sizing-change ml-3 zoom" href="index.php?id=1">Accueil <span class="sr-only">(current)</span></a>
+                    <a class="nav-link text-dark sizing-change ml-3 zoom" href="index.php?id=2">Qui sommes nous?</a>
+                    <a class="nav-link text-dark sizing-change ml-3 zoom" href="index.php?id=3">Nos clients témoignent</a>
+                    <a class="nav-link text-dark sizing-change ml-3 zoom" href="index.php?id=4">Contact</a>
                 </div>
             </div>
         </nav>
