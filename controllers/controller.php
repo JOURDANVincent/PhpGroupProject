@@ -1,7 +1,7 @@
 <?php
 
     $id = 1;
-    $url = 'assets/xml/source.xml';
+    $url = 'assets/xml/source-julien.xml';
     $simpleXml = simplexml_load_file($url);
 
     if ($_SERVER['REQUEST_METHOD'] == 'GET' && !empty($_GET['id']) && $_GET['id']>=1 && $_GET['id']<=4 ) {
@@ -13,7 +13,7 @@
         
     } else {
 
-        $actualPage = 'page de garde'.$simpleXml->page[1]->content;
+        $actualPage = 'page de garde'.$simpleXml->page[0]->content;
 
     }
 
