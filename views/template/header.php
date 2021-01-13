@@ -1,17 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets\css\style.css">    
     <title>Document</title>
 </head>
-<body>
-<header>
-        <div>
-            <a href="index.php?id=l">Page 0</a>
-            <a href="index.php?id=2">Page 1</a>
-            <a href="index.php?id=3">Page 2</a>
-            <a href="index.php?id=4">Page 3</a>
-        </div>
-    </header>
 
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-warning bg-warning">
+        <a class="navbar-brand" href="index.php?id=l">
+            <img src="assets\img\bonhomme-Petit-1.png" width="100" class="img-fluid" alt="" loading="lazy">
+            </a>
+            <button class="navbar-toggler bg-danger" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active text-dark sizing-change ml-3" href="index.php?id=1">Accueil <span class="sr-only">(current)</span></a>
+                    <a class="nav-link text-dark sizing-change ml-3" href="index.php?id=2">Qui sommes nous?</a>
+                    <a class="nav-link text-dark sizing-change ml-3" href="index.php?id=3">Nos clients témoignent</a>
+                    <a class="nav-link text-dark sizing-change ml-3" href="index.php?id=4">Contact</a>
+                </div>
+            </div>
+        </nav>
+    </header>

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+html , body{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+
+}
+.sizing-change{
+    font-family: 'Bitter', serif;
+    font-size: 1.5rem;
+}
+#page2{
+    font-family: 'Bitter', serif;
+}
+
