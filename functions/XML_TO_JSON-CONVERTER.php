@@ -1,6 +1,7 @@
 <?php
+echo 'controller';
 
-$url = 'assets/json/recipe/test.xml';
+$url = 'assets/xml/source.xml';
 
 $json = XML_TO_JSON($url);
 
@@ -17,13 +18,14 @@ function XML_TO_JSON ($url) {
 
     $simpleXml = simplexml_load_string($fileContents);
 
-    //var_dump($simpleXml);
+    var_dump($simpleXml);
 
     $json = json_encode($simpleXml);
 
     return $json;
 
 }
+
 
 ?>
 
