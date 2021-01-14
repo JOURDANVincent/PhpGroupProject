@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    
+
     <header>
         <nav class="navbar navbar-expand-lg navbar-warning bg-warning">
         <a class="navbar-brand" href="index.php?id=l">
