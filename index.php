@@ -10,7 +10,7 @@
     echo '<main>
             <div class="container">
                 <div class="row">
-                    <div class="col-12" id="page'.$id.'">
+                    <div class="col-12 py-5" id="page'.$id.'">
                         '.$contentPage.'
                     </div>
                 </div>
