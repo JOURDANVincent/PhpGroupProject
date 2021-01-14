@@ -22,9 +22,9 @@
         <menu>Qui sommes nous?</menu>
         <title>En apprendre plus sur nous - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1 class="text-warning mt-3 sizeTitle fadeInLeft">Qui sommes-nous?</h1>
-<h2 class="mt-3 text-danger fadeInLeft">L’AGENCE DE TRAVAUX OCORDO</h2>
-<h3 class="mt-3 text-danger fadeInLeft">Présentation de notre entreprise</h3>
-<p class="fadeInRight">Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation d’appartements et de maisons et de construction d’extensions horizontale ou verticale de maisons.</p>
+<h2 class="mt-4 text-danger fadeInLeft">L’AGENCE DE TRAVAUX OCORDO</h2>
+<h3 class="mt-4 text-danger fadeInLeft">Présentation de notre entreprise</h3>
+<p class="fadeInRight mt-4">Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation d’appartements et de maisons et de construction d’extensions horizontale ou verticale de maisons.</p>
 <p class="fadeInRight">Nous travaillons exclusivement pour les particuliers.</p>
 <div class="embed-responsive fadeInRight embed-responsive-16by9 offset-2 col-8 my-5">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Crh5lFpNK0o?feature=oembed" allowfullscreen></iframe>
@@ -81,14 +81,14 @@
         <menu>Contact</menu>
         <title>Contactez nous - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1>Contact et Devis</h1>    
-<p class="col-6 order-2"><iframe style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
-<p class="col-6 order-1">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
-<ul class="col-6 order-3">
+<p><iframe class="embed-responsive-item" style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
+<p class="col-6">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
+<ul class="col-6">
     <li>Téléphonez-nous au 02.51.84.18.24</li>
     <li>Ou écrivez-nous à cette adresse email : contact@ocordo-travaux.fr</li>
     <li>Ou compétez le formulaire ci-dessous :</li>
 </ul>
-<div role="form">
+<div class="col-12" role="form">
     <form action="#" method="post" class="form" novalidate="novalidate">
         <label>Votre nom * :</label><input name="your-name" value="" size="40" class="form-control text validates-as-required" type="text">
         <label>Votre email :</label><input name="your-email" value="" size="40" class="form-control text email validates-as-email"  type="email">
