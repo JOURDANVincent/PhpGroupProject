@@ -94,3 +94,8 @@ textarea {
     /* background-color: #505050 !important; */
     border: 1px solid orange !important;
 }
+
+
+.carousel-caption {
+    backdrop-filter: blur(6px) !important;
+}

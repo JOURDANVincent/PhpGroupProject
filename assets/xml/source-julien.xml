@@ -4,16 +4,11 @@
         <menu>Accueil</menu>
         <title>Accueil - Maçonnerie Ocordo</title>
         <content>
-            <![CDATA[<h1 class="text-center">Maçonnerie Ocordo</h1>
-            <br>
-            <br>
+            <![CDATA[<h1 class="text-center text-warning mb-5">Maçonnerie Ocordo</h1>
 <p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
 <p>Nous sommes capables de gérer un projet de rénovation ou d’extension de A à Z grâce à nos entreprises générales de bâtiment partenaires.</p>
 <p>Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
-<h2 class="text-center">Nos dernières réalisations à Nantes</h2>
-<br>
-<br>
-
+<h2 class="text-center text-danger mt-5 mb-5">Nos dernières réalisations à Nantes</h2>
 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
