@@ -12,8 +12,15 @@ RewriteEngine on
 # Règles de réécriture d'URL :
 #--------------------------------------------------
 
-# Article sans numéro de page :
-
+#--------------------------------------------------
+# Modifier url php vers html sur lien page :
+#--------------------------------------------------
 RewriteRule ^([1-4]).html$   index.php?id=$1 [L]
+
+#--------------------------------------------------
+# from HTTP to HTTPS : (rediriger vers la page sécurisée)
+#--------------------------------------------------
+RewriteCond %{SERVER_PORT} 80
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 
