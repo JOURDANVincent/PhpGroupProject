@@ -86,3 +86,11 @@ html , body{
         transform: none;
         }
         } 
+
+
+
+input,
+textarea {
+    /* background-color: #505050 !important; */
+    border: 1px solid orange !important;
+}
