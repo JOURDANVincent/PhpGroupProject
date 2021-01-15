@@ -4,12 +4,12 @@
         <menu>Accueil</menu>
         <title>Accueil - Maçonnerie Ocordo</title>
         <content>
-            <![CDATA[<h1 class="text-center text-warning mb-5">Maçonnerie Ocordo</h1>
-<p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
-<p>Nous sommes capables de gérer un projet de rénovation ou d’extension de A à Z grâce à nos entreprises générales de bâtiment partenaires.</p>
-<p>Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
-<h2 class="text-center text-danger mt-5 mb-5">Nos dernières réalisations à Nantes</h2>
-<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+            <![CDATA[<h1 class="text-warning sizeTitle fadeInLeft mb-5">Maçonnerie Ocordo</h1>
+<p class="fadeInLeft" >Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
+<p class="fadeInLeft" >Nous sommes capables de gérer un projet de rénovation ou d’extension de A à Z grâce à nos entreprises générales de bâtiment partenaires.</p>
+<p class="fadeInLeft" >Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
+<h2 class="text-center text-danger mt-5 mb-5 fadeInLeft">Nos dernières réalisations à Nantes</h2>
+<div id="carouselExampleCaptions" class="carousel slide fadeInRight" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
@@ -125,14 +125,14 @@
     <page id="3">
         <menu>Nos clients témoignent</menu>
         <title>Avis clients - Maçonnerie Ocordo</title>
-        <content><![CDATA[<h1 class="text-center text-warning">Nos clients témoignent</h1>
+        <content><![CDATA[<h1 class="sizeTitle text-warning">Nos clients témoignent</h1>
 <div class="testimonials-list mt-5 ">
     <div class="quote fadeInLeft">
         <h2 class="text-danger">Rénovation transformation</h2>
         <p>Transformation rénovation d’un garage et refaire les murs ( placo), l’electricité (prises, eclairage leds ),le sol ( carrelage), les peintures et changement d’une porte-fenêtre. Devis: précis et rapide Prestations au rythme convenu, réalisation des travaux sans failles, très bonnes prestation Chantier: propreté absolue et nettoyage complet à la fin. Bémol : 2 jours de retard à cause du retard de livraison de la fenêtre, mais vraiment pas grave. Prix: très raisonnable Je recommande Ocordo pour l’efficacité du travail réalisé en amont: devis, tarifs. Ils connaissent le travail.</p>
         <p>BrunoPH</p>
     </div>
-    <div class="quote fadeInRight">
+    <div class="quote fadeInRight mt-4">
         <h2 class="text-danger">Sérieux</h2>
         <p>Nous sommes satisfait du travail de cette entreprise qui a rénové notre maison quand nous sommes arrivés à lille. il y avait tout a rénové et leur commercial a su nous consacrer du temps pour nous proposer un projet qui convenait à notre gout et à notre budget. les travaux ont été bien fait à part un petit détail au niveau de la fourniture de la robineterie de la cuisine mais sans gravité</p>
         <p>PJ9e7S9L</p>
@@ -143,16 +143,16 @@
     <page id="4">
         <menu>Contact</menu>
         <title>Contactez nous - Maçonnerie Ocordo</title>
-        <content><![CDATA[<h1 class="col-12 order-first text-warning text-center text-lg-left mb-5">Contact et Devis</h1>    
-<p class="order-last"><iframe class="col-12 col-lg-6 order-lg-2 mb-5"  style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
-<p class="col-12 col-lg-6 order-1 order-lg-1 px-4">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
-<ul class="col-12 col-lg-6 order-2 order-lg-3 px-5">
+        <content><![CDATA[<h1 class="text-center sizeTitle text-warning mb-5 fadeInLeft">Contact et Devis</h1>    
+<p class="col-10 px-0"><iframe class="col-10 mb-5 px-0" style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
+<p class="col-12 offset-lg-2 col-lg-8 px-4">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
+<ul class="col-12 offset-lg-2 col-lg-8 px-5">
     <li>Téléphonez-nous au 02.51.84.18.24</li>
     <li>Ou écrivez-nous à cette adresse email : contact@ocordo-travaux.fr</li>
     <li>Ou compétez le formulaire ci-dessous :</li>
 </ul>
-<div class="col-12 order-5 px-0" role="form">
-    <form action="#" method="post" class="form col-12 text-center" novalidate="novalidate">
+<div class="fadeInRight col-12 text-center" px-0" role="form">
+    <form action="#" method="post" class="form offset-2 col-8 text-center px-0" novalidate="novalidate">
         <label class="col-12 text-left mt-3">Votre nom * :</label><input name="your-name" value="" size="40" class="form-control text validates-as-required" type="text">
         <label class="col-12 text-left mt-3">Votre email :</label><input name="your-email" value="" size="40" class="form-control text email validates-as-email"  type="email">
         <label class="col-12 text-left mt-3">Votre numéro de téléphone * :</label>

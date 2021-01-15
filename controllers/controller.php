@@ -1,7 +1,7 @@
 <?php
 
     $id = 1;
-    $url = 'assets/xml/source-julien.xml';
+    $url = 'assets/xml/source.xml';
     $simpleXml = simplexml_load_file($url);
 
 
