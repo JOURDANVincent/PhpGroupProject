@@ -1,8 +1,10 @@
 <?php
 
-    $id = 1;
+    $id = null;
     $url = 'assets/xml/source.xml';
     $simpleXml = simplexml_load_file($url);
+
+    //var_dump($simpleXml);
 
 
     if ($_SERVER['REQUEST_METHOD'] == 'GET' && !empty($_GET['id']) && $_GET['id'] >= 1 && $_GET['id'] <= 4) {

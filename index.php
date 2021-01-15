@@ -1,7 +1,4 @@
 <?php
-    // lien avec controller.php
-    include('controllers/controller.php');
-
 
     // lien avec controller.php
     include('controllers/controller.php');

@@ -3,11 +3,12 @@ html , body{
     height: 100%;
     width: 100%;
     margin: 0%;
+    /* background-color: coral; */
 
 }
 
 .sizing-change{
-    font-family: 'Bitter', serif;
+    font-family: 'Oswald', serif;
     font-size: 1.5rem;
 }
 
@@ -15,8 +16,16 @@ html , body{
     font-family: 'Bitter', serif;
 }
 
-.sizeTitle{
-    font-size: 4em;
+@media screen and (max-width: 360px) {
+    .sizeTitle{
+        font-size: 2rem !important;
+    }
+}
+
+@media screen and (min-width: 361px) {
+    .sizeTitle{
+        font-size: 4rem !important;
+    }
 }
 
 .zoom {
@@ -100,6 +109,3 @@ textarea {
 }
 
 
-.carousel-caption {
-    backdrop-filter: blur(3px) !important;
-}

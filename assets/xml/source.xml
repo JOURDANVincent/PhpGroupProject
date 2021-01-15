@@ -4,7 +4,7 @@
         <menu>Accueil</menu>
         <title>Accueil - Maçonnerie Ocordo</title>
         <content>
-            <![CDATA[<h1 class="text-warning sizeTitle fadeInLeft mb-5">Maçonnerie Ocordo</h1>
+            <![CDATA[<h1 class="text-warning text-center text-md-left sizeTitle fadeInLeft mb-5">Maçonnerie Ocordo</h1>
 <p class="fadeInLeft" >Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
 <p class="fadeInLeft" >Nous sommes capables de gérer un projet de rénovation ou d’extension de A à Z grâce à nos entreprises générales de bâtiment partenaires.</p>
 <p class="fadeInLeft" >Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
@@ -20,7 +20,7 @@
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/Renovation-appartement-nantes-ocordo-travaux-300-225.jpg" class="d-block mx-auto w-50" alt="Rénovation d'un appartement à Nantes">
+      <img src="assets/img/Renovation-appartement-nantes-ocordo-travaux-300-225.jpg" class="d-block mx-auto" alt="Rénovation d'un appartement à Nantes">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ocordo</h5>
         <p>Rénovation d'un appartement à Nantes.</p>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="carousel-item">
-      <img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" class="d-block mx-auto w-50" alt="Aménagement de comble à Nantes">
+      <img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" class="d-block mx-auto" alt="Aménagement de comble à Nantes">
       <div class="carousel-caption d-none d-md-block">
         <h5>SOcordo</h5>
         <p>Aménagement de comble à Nantes.</p>
@@ -36,7 +36,7 @@
     </div>
 
     <div class="carousel-item">
-      <img src="assets/img/entreprise-de-renovation-OCORDO-300-225.jpg" class="d-block mx-auto w-50" alt="Rénovation d'une maison à Nantes">
+      <img src="assets/img/entreprise-de-renovation-OCORDO-300-225.jpg" class="d-block mx-auto" alt="Rénovation d'une maison à Nantes">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ocordo</h5>
         <p>Rénovation d'une maison à Nantes.</p>
@@ -44,7 +44,7 @@
     </div>
 
       <div class="carousel-item">
-      <img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" class="d-block mx-auto w-50" alt="Travaux de rénovation dans un appartement à Nantes">
+      <img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" class="d-block mx-auto" alt="Travaux de rénovation dans un appartement à Nantes">
       <div class="carousel-caption d-none d-md-block">
         <h5>fOcordo</h5>
         <p>Travaux de rénovation dans un appartement à Nantes.</p>
@@ -52,7 +52,7 @@
     </div>
 
       <div class="carousel-item">
-      <img src="assets/img/societe-de-renovation-a-nantes-2.jpg" class="d-block mx-auto w-50" alt="Rénovation d'un appartement à Nantes">
+      <img src="assets/img/societe-de-renovation-a-nantes-2.jpg" class="d-block mx-auto" alt="Rénovation d'un appartement à Nantes">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ocordo</h5>
         <p>Rénovation d'un appartement à Nantes.</p>
@@ -83,7 +83,7 @@
     <page id="2">
         <menu>Qui sommes nous?</menu>
         <title>En apprendre plus sur nous - Maçonnerie Ocordo</title>
-        <content><![CDATA[<h1 class="text-warning mt-3 sizeTitle fadeInLeft">Qui sommes-nous?</h1>
+        <content><![CDATA[<h1 class="text-warning mt-3 text-center text-md-left sizeTitle fadeInLeft">Qui sommes-nous?</h1>
 <h2 class="mt-4 text-danger fadeInLeft">L’AGENCE DE TRAVAUX OCORDO</h2>
 <h3 class="mt-4 text-danger fadeInLeft">Présentation de notre entreprise</h3>
 <p class="fadeInRight mt-4">Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation d’appartements et de maisons et de construction d’extensions horizontale ou verticale de maisons.</p>
@@ -125,7 +125,7 @@
     <page id="3">
         <menu>Nos clients témoignent</menu>
         <title>Avis clients - Maçonnerie Ocordo</title>
-        <content><![CDATA[<h1 class="sizeTitle text-warning">Nos clients témoignent</h1>
+        <content><![CDATA[<h1 class="sizeTitle text-center text-md-left text-warning">Nos clients témoignent</h1>
 <div class="testimonials-list mt-5 ">
     <div class="quote fadeInLeft">
         <h2 class="text-danger">Rénovation transformation</h2>
@@ -144,7 +144,7 @@
         <menu>Contact</menu>
         <title>Contactez nous - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1 class="text-center sizeTitle text-warning mb-5 fadeInLeft">Contact et Devis</h1>    
-<p class="col-10 px-0"><iframe class="col-10 mb-5 px-0" style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
+<p class="col-12 col-lg-10 px-0"><iframe class="col-12 col-lg-10 mb-5 px-0" style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
 <p class="col-12 offset-lg-2 col-lg-8 px-4">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
 <ul class="col-12 offset-lg-2 col-lg-8 px-5">
     <li>Téléphonez-nous au 02.51.84.18.24</li>
@@ -152,7 +152,7 @@
     <li>Ou compétez le formulaire ci-dessous :</li>
 </ul>
 <div class="fadeInRight col-12 text-center" px-0" role="form">
-    <form action="#" method="post" class="form offset-2 col-8 text-center px-0" novalidate="novalidate">
+    <form action="#" method="post" class="form col-12 offset-lg-2 col-lg-8 text-center px-0" novalidate="novalidate">
         <label class="col-12 text-left mt-3">Votre nom * :</label><input name="your-name" value="" size="40" class="form-control text validates-as-required" type="text">
         <label class="col-12 text-left mt-3">Votre email :</label><input name="your-email" value="" size="40" class="form-control text email validates-as-email"  type="email">
         <label class="col-12 text-left mt-3">Votre numéro de téléphone * :</label>
